@@ -1,0 +1,19 @@
+1  Mars: A verifier
+2  Mars: fahrenheit
+3  Mars: fahrenheit
+4  Mars: fahrenheit
+5  Mars: fahrenheit
+6  Mars: celsius
+7  Mars: celsius
+8  Mars: celsius
+9  Mars: fahrenheit
+10 Mars: fahrenheit
+11 Mars: fahrenheit
+12 Mars: fahrenheit
+13 Mars: celsius
+14 Mars: celsius
+15 Mars: fahrenheit
+16 Mars: fahrenheit
+17 Mars: fahrenheit
+18 Mars: fahrenheit
+19 Mars: fahrenheit
