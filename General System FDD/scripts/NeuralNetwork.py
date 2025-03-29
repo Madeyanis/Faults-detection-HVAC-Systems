@@ -1,26 +1,13 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import cross_val_score
-from sklearn import metrics
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import ShuffleSplit
-from sklearn.metrics import confusion_matrix
-from seaborn import heatmap
-import seaborn as sns
-from sklearn import tree
-from sklearn.neural_network import MLPClassifier
 from keras.callbacks import EarlyStopping, ModelCheckpoint
 from functions import *
 from keras.models import Sequential
 from tensorflow.keras.optimizers import Adam
-from keras.layers import Dense, Conv1D, Dropout, MaxPooling1D, LSTM, Flatten, Conv2D, MaxPooling2D, Reshape
+from keras.layers import Dense, Conv1D, Dropout, Flatten, MaxPooling2D
 import os
-from seaborn import heatmap
 from tensorflow.keras.utils import to_categorical
-from sklearn.preprocessing import MinMaxScaler
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 uf = pd.read_csv('/home/masdoua1/projetIA3_9/data/Data_arranged/uf_data.csv')
