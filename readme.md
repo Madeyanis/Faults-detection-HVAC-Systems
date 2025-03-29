@@ -12,7 +12,7 @@ This project focuses on detecting faults in HVAC systems. It aims to improve rel
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Faults-detection.git
+    git clone https://github.com/Madeyanis/Faults-detection-HVAC-Systems.git
     ```
 2. Navigate to the project directory:
     ```bash
